@@ -21,4 +21,5 @@ Hey, thanks for dropping by! <br>I am Anshul.<br>I am interested in algorithmic 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anshul-B-A&icon=3&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://github.com/<Anshul-B-A>/<Anshul-B-A>/blob/output/snake.svg)
+
