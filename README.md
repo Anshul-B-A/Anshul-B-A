@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey, thanks for dropping by! <br>I am Anshul.<br>I am interested in algorithmic problem solving.
 
-[![Hacktoberfest Badge](https://assets.holopin.io/hf2024levels/level4-sloth-terminal-coffee-robe-witch-eclipse.webp)]([https://assets.holopin.io/hf2024levels/level4-sloth-terminal-coffee-robe-witch-eclipse.webp](https://www.holopin.io/hacktoberfest2024/userbadge/cm2xl6g9k04560clepj27w1sf))
+## Hacktoberfest:
 <a href="https://www.holopin.io/@anshulba#badges">
     <img src="https://assets.holopin.io/hf2024levels/level4-sloth-terminal-coffee-robe-witch-eclipse.webp" alt="Hacktoberfest Badge" width="150" height="150">
 </a>
