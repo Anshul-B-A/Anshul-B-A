@@ -4,6 +4,10 @@ Hey, thanks for dropping by! <br>I am Anshul.<br>I am interested in algorithmic 
 ## Hacktoberfest:
 <a href="https://www.holopin.io/@anshulba#badges">
     <img src="https://assets.holopin.io/hf2024levels/level4-sloth-terminal-coffee-robe-witch-eclipse.webp" alt="Hacktoberfest Badge" width="150" height="150">
+    <img src="https://assets.holopin.io/hf2024levels/level3-sloth-terminal-coffee-robe-witch-0.webp" alt="Hacktoberfest Badge" width="150" height="150">
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-terminal-coffee-robe-0-0.webp" alt="Hacktoberfest Badge" width="150" height="150">
+    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-terminal-coffee-0-0-0.webp" alt="Hacktoberfest Badge" width="150" height="150">
+    
 </a>
 
 
