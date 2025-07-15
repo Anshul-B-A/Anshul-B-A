@@ -42,4 +42,8 @@ Currently learning **Spring Boot**, **Machine Learning**, and **Generative AI** 
 ---
 
 
+### 🐍 Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Anshul-B-A/Anshul-B-A/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Anshul-B-A/Anshul-B-A/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
