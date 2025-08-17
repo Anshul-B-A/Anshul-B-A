@@ -1,5 +1,5 @@
 # 💫 About Me  
-Hi, I'm Anshul — a Computer Science & Engineering undergraduate passionate about building efficient software and solving real-world problems through code. I have experience in C++ and Java, with a growing interest in backend development and scalable systems.
+Hi, I'm Anshul- a Computer Science & Engineering undergraduate passionate about building efficient software and solving real-world problems through code. I have experience in C++ and Java, with a growing interest in backend development and scalable systems.
 
 Currently learning **Spring Boot**, **Machine Learning**, and **Generative AI** to strengthen my backend and AI engineering capabilities.
 
